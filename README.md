@@ -1,2 +1,2 @@
 # DATA
-Data of manuscript
+ the minimal data set of manuscript
